@@ -10,14 +10,14 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace Presentation_Layer
+namespace Presentation_Layer_PC
 {
 	/// <summary>
-	/// Interaction logic for MaintanenceWindow.xaml
+	/// Interaction logic for MaintenanceWindow.xaml
 	/// </summary>
-	public partial class MaintanenceWindow : Window
+	public partial class MaintenanceWindow : Window
 	{
-		public MaintanenceWindow()
+		public MaintenanceWindow()
 		{
 			InitializeComponent();
 		}

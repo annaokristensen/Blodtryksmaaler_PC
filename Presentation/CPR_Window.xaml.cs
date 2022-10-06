@@ -10,7 +10,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace Presentation_Layer
+namespace Presentation_Layer_PC
 {
 	/// <summary>
 	/// Interaction logic for CPR_Window.xaml
