@@ -10,5 +10,9 @@ namespace DataLayerPC
     {
         private int value;
         //Test
+
+
+        //Jeg er lige i øjeblikket forsigtigt optimistisk omkring GitHub
+        private string name;
     }
 }
