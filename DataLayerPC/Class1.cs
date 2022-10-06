@@ -8,5 +8,6 @@ namespace DataLayerPC
 {
     public class Class1
     {
+        private int value;
     }
 }
