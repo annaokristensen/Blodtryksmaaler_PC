@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic_Layer", "Presentation_Layer\Logic_Layer.csproj", "{D1BA658A-8852-4BA4-87B2-A89F57C93AE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic_Layer_PC", "Presentation_Layer\Logic_Layer_PC.csproj", "{D1BA658A-8852-4BA4-87B2-A89F57C93AE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation_Layer", "Presentation\Presentation_Layer.csproj", "{E3137680-00E9-41EF-AFAB-C0EF6E89E2ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presentation_Layer_PC", "Presentation\Presentation_Layer_PC.csproj", "{E3137680-00E9-41EF-AFAB-C0EF6E89E2ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Layer", "Data_Layer\Data_Layer.csproj", "{DBFD3769-9204-49E0-B3AF-C6DD2ECAE0D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data_Layer_PC", "Data_Layer\Data_Layer_PC.csproj", "{DBFD3769-9204-49E0-B3AF-C6DD2ECAE0D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
