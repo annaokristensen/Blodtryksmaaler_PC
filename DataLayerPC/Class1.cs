@@ -17,5 +17,7 @@ namespace DataLayerPC
 
         //Forståeligt! 
 
+        private char checker;
+
     }
 }
