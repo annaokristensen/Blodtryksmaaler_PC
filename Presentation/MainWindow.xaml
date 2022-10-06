@@ -7,6 +7,23 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label x:Name="cpr_label" Content="CPR-nummer" HorizontalAlignment="Left" Margin="25,28,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.353,-2.402"/>
+        <TextBox x:Name="cpr_textbox" HorizontalAlignment="Left" Margin="111,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="startMeasurement_button" Content="Start måling" HorizontalAlignment="Left" Margin="25,72,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="max_label" Content="Max" HorizontalAlignment="Left" Margin="282,32,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.353,-2.402"/>
+        <Label x:Name="min_label" Content="Min" HorizontalAlignment="Left" Margin="282,69,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.353,-2.402"/>
+        <Label x:Name="systolisk_label" Content="Systolisk" HorizontalAlignment="Left" Margin="328,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.353,-2.402"/>
+        <Label x:Name="diastolisk_label" Content="Diastolisk" HorizontalAlignment="Left" Margin="400,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.353,-2.402"/>
+        <Label x:Name="middelBT_label" Content="Middel" HorizontalAlignment="Left" Margin="482,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.353,-2.402"/>
+        <Label x:Name="pulse_label" Content="Pulse" HorizontalAlignment="Left" Margin="552,14,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.353,-2.402"/>
+        <TextBox HorizontalAlignment="Left" Margin="328,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox HorizontalAlignment="Left" Margin="328,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox HorizontalAlignment="Left" Margin="405,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox HorizontalAlignment="Left" Margin="405,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox HorizontalAlignment="Left" Margin="482,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox HorizontalAlignment="Left" Margin="482,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox HorizontalAlignment="Left" Margin="543,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox HorizontalAlignment="Left" Margin="552,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+
     </Grid>
 </Window>
